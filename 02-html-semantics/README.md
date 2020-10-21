@@ -9,10 +9,10 @@
   - [HTML Standard](https://html.spec.whatwg.org/#is-this-html5?)
   
 ## Entity Code
-- Special sequences that we can use inside of our HTML that will result in different characters. [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
+- Special sequences that we can use inside of our HTML that will result in different characters. 
   - These could be reserved characters, or things that are difficult to type (i.e. the copyright character)
 - Start with an ampersand and end with a semicolon
 - the browser interprets them and renders the correct character instead.
-- [Entity Code](https://entitycode.com/)
+- [Entity Code](https://entitycode.com/) / [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
 
 
