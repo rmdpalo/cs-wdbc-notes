@@ -14,5 +14,6 @@
 - Start with an ampersand and end with a semicolon
 - the browser interprets them and renders the correct character instead.
 - [Entity Code](https://entitycode.com/) / [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
-
+ 
+ 
 
