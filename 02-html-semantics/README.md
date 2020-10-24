@@ -16,6 +16,13 @@
 - [Entity Code](https://entitycode.com/) / [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref)
 
 ## Semantic Markup
- 
+relating to meaning, semantic markup is __meaningful markup__
+- header, nav, main, footer, section, etc. all act like divs but are more meaningful and give us an idea of what its purpose is.
+- why?
+  - SEO: Search engines will consider its contents as important keywords to influence the page's search rankings. (-MDN)
+  - Screen readers can use it as a signpost to help visually impaired users navigate a page.
+  - finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+  - suggests to the developer the type of data that will be populated
+  - semantic naming mirrors proper custom element/component naming (like in React)
  
 
