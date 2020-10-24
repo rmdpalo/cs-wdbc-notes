@@ -24,5 +24,12 @@ relating to meaning, semantic markup is __meaningful markup__
   - finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
   - suggests to the developer the type of data that will be populated
   - semantic naming mirrors proper custom element/component naming (like in React)
- 
+- semantic elements
+  - __main__ - houses the main content of a page that doesn't repeat in other pages (i.e. navbars, footers, headers, logos)
+  - __nav__ - represents anything on the page that provides navigation links both to other pages and the same page.
+  - __section__ - represents a standalone section of a website, pretty generic but still better than just a div.
+  - __article__ - represents a self-contained composition in a document. (not exclusive to literal articles, includes blogs, forum posts, etc.)
+  - __aside__ -  represents a portion of a document whose content is tangential to the main content. (sidebars)
+  - __header__ - represents introductory content, typically a group of introductory or navigational aids. It may contain some heading elements but also a logo, search form, author name, and etc.
+  - __footer__ - represents a footer for its nearest sectioning content or root element, usually contains information about the author of the seciont, the copyright data or links to related content.
 
